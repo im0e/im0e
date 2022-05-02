@@ -68,9 +68,9 @@ div.logo {
     border-bottom: 1px solid white;
     border-right: 1px solid white;
     border-radius: 0.16em;
-    
-    padding: 0.2em;
-
+   
+    min-width: 36px;
+    min-height: 36px;
     text-align: center;
 }
 
