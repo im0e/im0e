@@ -69,8 +69,7 @@ div.logo {
     border-right: 1px solid white;
     border-radius: 0.16em;
     
-    width: 36px;
-    height: 36px;
+    padding: 0.2em;
 
     text-align: center;
 }
