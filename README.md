@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any project that need C++/C developer
 - 📫 How to reach me ... 
 - 👍[facebook](https://www.facebook.com/muhammed.salih.37266/)
-- ❤️ [instagram](https://www.instagram.com/imoe0x63/?hl=en)
+- ❤️[instagram](https://www.instagram.com/imoe0x63/?hl=en)
 -   also u can contact me on telegram using @imoe0x63
 
 <!---
